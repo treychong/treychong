@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @treychong
 - 👀 I’m from Malaysia, working in Shanghai for the past 13 yaers
-- 🌱 I'm bootsrapping an online logo maker ailogomakerr.com
+- 🌱 I'm bootsrapping two websites, logomakerr.ai and aimenuu.com
 
 <!---
 treychong/treychong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
